@@ -84,8 +84,9 @@ An AI-powered platform featuring:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/CyberG0j0
-- LinkedIn: *(Add your LinkedIn profile here)*
-- Email: *(Add your professional email here)*
+- LinkedIn: https://www.linkedin.com/in/shriesharan/
+- Email: shriesharan12@gmail.com  
+- TryHackMe: https://tryhackme.com/p/CY83RG0J0
 
 ---
 
