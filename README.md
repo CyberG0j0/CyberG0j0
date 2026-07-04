@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Shriesharan(CyberG0j0)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CyberG0j0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ## 💻 Full Stack Web Developer | 🔒 Cybersecurity Enthusiast | 🤖 AI Explorer
 
 I'm a Computer Science graduate passionate about building secure, scalable web applications and exploring modern cybersecurity technologies. I enjoy creating projects that combine software development with AI and cryptography.
@@ -15,36 +17,32 @@ I'm a Computer Science graduate passionate about building secure, scalable web a
 - 🔐 Learning Post-Quantum Cryptography
 - 🌱 Always learning new technologies
 
+  ---
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberG0j0&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberG0j0&layout=compact&theme=tokyonight" height="170"/>
+</p>
+  ---
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CyberG0j0&theme=tokyonight" />
+</p>
 ---
 
 ## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Languages
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
-
-### Frameworks & Libraries
-- Flask
-- React
-- Node.js
-- Bootstrap
-
-### Databases
-- MySQL
-- SQLite
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Linux
-- Docker
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)---
 
 ## 🌟 Featured Projects
 
